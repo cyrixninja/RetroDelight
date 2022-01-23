@@ -1,5 +1,3 @@
-# Working Apps
-Paint and Games
 # Visit demo
 https://cyrixninja.github.io/RetroDelight/
 # What it does
