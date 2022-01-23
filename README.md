@@ -19,3 +19,12 @@ https://cyrixninja.github.io/RetroDelight/
 
 ✅Bug Fixer - This allows you to fix bugs in the code you provided.
 ![bug](https://user-images.githubusercontent.com/72274851/150686714-56e700e0-bacc-450e-a83c-176187006876.png)
+
+# How we built it
+We built it using -
+1. Python - The entire codebase is built in Python.
+2. Flask - The web app is created using Flask.
+3. OpenAI - It uses Open AI's GPT 3 to generate predictions and give suggestions.
+4. HTML
+5. CSS
+6. JavaScript
