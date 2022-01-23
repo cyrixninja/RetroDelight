@@ -3,6 +3,12 @@ https://cyrixninja.github.io/RetroDelight/
 
 # Video demo
 https://www.youtube.com/watch?v=3hzL_9ypt2E
+
+# Project Created By
+Harsh-cyrixninja@gmail.com
+Khushi -thekhushikapoor@gmail.com
+Joel-joeljoseph1810@gmail.com
+
 # What it does
 
 ![1](https://user-images.githubusercontent.com/72274851/150686571-cde1260b-dbc7-412e-ba61-be26563009c0.png)
